@@ -194,10 +194,10 @@ h2 {
 }
 
 .social-icon img {
-  height: 100px;
-  width: 100px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  filter: grayscale(20%);
+ width: 100px;
+ hieght: 100px;
+ transition: transform 0.3s ease, box-shadow 0.3s ease;
+ filter: grayscale(20%);
 }
 
 .social-icon:hover img {
