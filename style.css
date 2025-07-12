@@ -188,6 +188,11 @@ h2 {
 }
 
 /* Social Media Section */
+#social-media {
+  margin: 40px 0;
+  gap: 40px;
+}
+
 .social-icon {
   text-align: center;
   text-decoration: none;
@@ -212,6 +217,8 @@ h2 {
 
 .social-icon p {
   margin: 0;
+  color: #7600bc; 
+  letter-spacing: 1px;
 }
 
 
